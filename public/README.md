@@ -80,7 +80,7 @@ Entity Relationship Diagram (ERD)
 
 The following ERD represents Breezy’s internal data model and its relationship to HubSpot CRM.
 The diagram below was created specifically for this POC and reflects intentional design decisions.
-THE PNG CAN BE FOUND IN THE FIRST STARTING FOLDER OF THE PROJECT. IT IS CALLED 'ERD Breezy'
+THE PNG CAN BE FOUND IN THE PUBLIC FOLDER OF THE PROJECT. IT IS CALLED 'ERD Breezy'
 
 
 Entity Descriptions
